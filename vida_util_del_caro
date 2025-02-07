@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11" pages="6">
   <diagram name="Página-1" id="8538RkRGA3aUv2nmdEp7">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -482,10 +482,90 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6FlJJ_PdYJbjD6HsnPOT" name="Página-6">
-    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2337" dy="1174" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="s6saE6GvphgaPJS1S6VE-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;•&amp;nbsp; las primeras 35 horas se pagan a tarifa normal,&lt;/p&gt;&lt;p&gt;•&amp;nbsp; las horas que pasen de 35 se pagan a 1,5 veces la tarifa normal,&lt;/p&gt;&lt;p&gt;•&amp;nbsp; las tasas de impuestos son:&lt;/p&gt;&lt;p&gt;a)&amp;nbsp; los primeros 1.000 dólares son libres de impuestos,&lt;/p&gt;&lt;p&gt;b)&amp;nbsp; los siguientes 400 dólares tienen un 25 por 100 de impuestos,&lt;/p&gt;&lt;p&gt;c)&amp;nbsp; los restantes, un 45 por 100 de impuestos,&lt;/p&gt;&lt;p&gt;•&amp;nbsp; la tarifa horaria es 15 dólares.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-509" y="-126" width="390" height="281" as="geometry" />
+        </mxCell>
+        <mxCell id="s6saE6GvphgaPJS1S6VE-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Se desea calcular el salario neto semanal de un trabajador (en dólares o en euros) en función del número de horas&amp;nbsp;&lt;/p&gt;&lt;p&gt;trabajadas y la tasa de impuestos:&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-527" y="-298" width="474" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="s6saE6GvphgaPJS1S6VE-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;También se desea escribir el nombre, salario bruto, tasas y salario neto&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-492" y="128" width="371" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s6saE6GvphgaPJS1S6VE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s6saE6GvphgaPJS1S6VE-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="-199.24088287353516" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s6saE6GvphgaPJS1S6VE-9" value="inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="-278" width="120" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="s6saE6GvphgaPJS1S6VE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s6saE6GvphgaPJS1S6VE-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="-109.92044830322266" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s6saE6GvphgaPJS1S6VE-11" value="leer&lt;div&gt;nombre,tarifaPorHora,&lt;/div&gt;&lt;div&gt;horasTrabajadas&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="149" y="-195" width="174" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6saE6GvphgaPJS1S6VE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s6saE6GvphgaPJS1S6VE-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="269" y="153.18639373779297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s6saE6GvphgaPJS1S6VE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="271" y="502" as="targetPoint" />
+            <mxPoint x="310" y="75.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="495" y="75.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s6saE6GvphgaPJS1S6VE-13" value="horasTrabajadas&amp;gt;35" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="9" width="138" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="s6saE6GvphgaPJS1S6VE-16" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="258" y="34" width="27" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="s6saE6GvphgaPJS1S6VE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s6saE6GvphgaPJS1S6VE-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="272.13658142089844" y="249.30290985107422" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s6saE6GvphgaPJS1S6VE-17" value="horasTrabajadas = tarifaPorHora * 1.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145.5" y="162" width="242" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="s6saE6GvphgaPJS1S6VE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s6saE6GvphgaPJS1S6VE-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="277.96177673339844" y="386.1960983276367" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s6saE6GvphgaPJS1S6VE-19" value="// aca la logica de (si entonses)&lt;br&gt;parar los tasas o imopuestos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="134" y="259" width="275" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="s6saE6GvphgaPJS1S6VE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s6saE6GvphgaPJS1S6VE-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="277" y="5.613548278808594" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s6saE6GvphgaPJS1S6VE-22" value="salarioBruto= horasTrabajadas * tarifaPorHora" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="139" y="-106" width="276" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="s6saE6GvphgaPJS1S6VE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s6saE6GvphgaPJS1S6VE-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="264" y="515.3223190307617" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s6saE6GvphgaPJS1S6VE-26" value="escribir&lt;div&gt;salarioBruto, nombre, tasas y tarifaPorHora&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="93" y="384" width="341" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="s6saE6GvphgaPJS1S6VE-28" value="fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207" y="526" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
