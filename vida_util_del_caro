@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="8">
   <diagram name="Página-1" id="8538RkRGA3aUv2nmdEp7">
     <mxGraphModel dx="816" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -678,62 +678,65 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PchikN9Jl4uUm5OKfkCm" name="Página-8">
-    <mxGraphModel dx="1376" dy="1616" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1403" dy="1985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
-        <mxCell id="CJXQzvfvHBP8JPuxKnOe-1" value="Deterinar lacantiddad total apagar por la llamada tefonica, teniendo en cuenta los siguiente&quot;&lt;div&gt;** Toda llamada que dure menos de tres minutos (cinco pasos) tiene un coste de 10 centimos,&lt;/div&gt;&lt;div&gt;** Cada minuto adicional a partir de los tres primeros es un paso de contador y cuesta 5 centimos&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rotation=0;" vertex="1" parent="1">
+        <mxCell id="CJXQzvfvHBP8JPuxKnOe-1" value="Deterinar lacantiddad total apagar por la llamada tefonica, teniendo en cuenta los siguiente&quot;&lt;div&gt;** Toda llamada que dure menos de tres minutos (cinco pasos) tiene un coste de 10 centimos,&lt;/div&gt;&lt;div&gt;** Cada minuto adicional a partir de los tres primeros es un paso de contador y cuesta 5 centimos&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rotation=0;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-434" y="-639" width="710" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="CJXQzvfvHBP8JPuxKnOe-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="CJXQzvfvHBP8JPuxKnOe-4">
+        <mxCell id="CJXQzvfvHBP8JPuxKnOe-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontColor=default;" parent="1" source="CJXQzvfvHBP8JPuxKnOe-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-15" y="-404.03575134277344" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CJXQzvfvHBP8JPuxKnOe-4" value="inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CJXQzvfvHBP8JPuxKnOe-4" value="inicio" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-55" y="-520" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CJXQzvfvHBP8JPuxKnOe-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="CJXQzvfvHBP8JPuxKnOe-6">
+        <mxCell id="CJXQzvfvHBP8JPuxKnOe-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontColor=default;" parent="1" source="CJXQzvfvHBP8JPuxKnOe-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-27" y="-311.80271911621094" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CJXQzvfvHBP8JPuxKnOe-6" value="leer&amp;nbsp;&lt;div&gt;minutos&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="CJXQzvfvHBP8JPuxKnOe-6" value="leer&amp;nbsp;&lt;div&gt;minutos&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-151" y="-401" width="253" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="CJXQzvfvHBP8JPuxKnOe-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="CJXQzvfvHBP8JPuxKnOe-8">
+        <mxCell id="fg5P9_ku_xLnMXsCGisS-6" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="CJXQzvfvHBP8JPuxKnOe-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-360" y="-100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CJXQzvfvHBP8JPuxKnOe-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontColor=default;" parent="1" source="CJXQzvfvHBP8JPuxKnOe-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-27" y="-155.49208068847656" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CJXQzvfvHBP8JPuxKnOe-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="CJXQzvfvHBP8JPuxKnOe-8">
+        <mxCell id="fg5P9_ku_xLnMXsCGisS-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-266.94171142578125" y="-255" as="targetPoint" />
+            <mxPoint x="366" y="-212" as="targetPoint" />
+            <mxPoint x="40" y="-193" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="246" y="-192" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GlOknj0JOvv4UVdz0EWv-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="392" y="-251.75" as="targetPoint" />
-            <mxPoint x="31" y="-249.25" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CJXQzvfvHBP8JPuxKnOe-8" value="si minutos &amp;lt;= 3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CJXQzvfvHBP8JPuxKnOe-8" value="si minutos &amp;lt;= 3" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-87.5" y="-311" width="121.5" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="CJXQzvfvHBP8JPuxKnOe-12" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="CJXQzvfvHBP8JPuxKnOe-12" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1" y="-192" width="30" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="CJXQzvfvHBP8JPuxKnOe-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="CJXQzvfvHBP8JPuxKnOe-15">
+        <mxCell id="CJXQzvfvHBP8JPuxKnOe-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontColor=default;" parent="1" source="CJXQzvfvHBP8JPuxKnOe-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-4" y="-43.84153747558594" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CJXQzvfvHBP8JPuxKnOe-15" value="fact &amp;lt;- munutos * 0.10&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CJXQzvfvHBP8JPuxKnOe-15" value="fact &amp;lt;- munutos * 0.10&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-148" y="-152" width="287" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="CJXQzvfvHBP8JPuxKnOe-17" value="escribir&lt;div&gt;minutos&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="CJXQzvfvHBP8JPuxKnOe-17" value="escribir&lt;div&gt;minutos&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-126" y="-42" width="258" height="60" as="geometry" />
         </mxCell>
       </root>
