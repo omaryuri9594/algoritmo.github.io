@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12" pages="13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12" pages="14">
   <diagram name="Página-1" id="8538RkRGA3aUv2nmdEp7">
     <mxGraphModel dx="816" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1159,6 +1159,84 @@
         </mxCell>
         <mxCell id="SESpVaPqz1x2AoaaUG-0-10" value="fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="550" width="120" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Q5Mht0DPW3gNZXtQ7rZR" name="Página-14">
+    <mxGraphModel dx="494" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zk6TpZEgweJ1nQZqHZD3-1" value="Hacer un programa para ingresar por teclado los metros cuadrados totales de&#xa;un predio y los metros cuadrados cubiertos; luego calcular y mostrar por&#xa;pantalla el porcentaje de metros cuadrados cubiertos y el porcentaje de&#xa;metros cuadrados descubiertos." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="70" width="450" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zk6TpZEgweJ1nQZqHZD3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zk6TpZEgweJ1nQZqHZD3-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354.33333333333337" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zk6TpZEgweJ1nQZqHZD3-2" value="inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zk6TpZEgweJ1nQZqHZD3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zk6TpZEgweJ1nQZqHZD3-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zk6TpZEgweJ1nQZqHZD3-4" value="predio,metroCPredio,metroCuadradoCubierto," style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zk6TpZEgweJ1nQZqHZD3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zk6TpZEgweJ1nQZqHZD3-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354.33333333333337" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zk6TpZEgweJ1nQZqHZD3-7" value="metroCPredio" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zk6TpZEgweJ1nQZqHZD3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zk6TpZEgweJ1nQZqHZD3-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="376.83333333333337" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zk6TpZEgweJ1nQZqHZD3-9" value="metroCuadradoCubierto" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="480" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zk6TpZEgweJ1nQZqHZD3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zk6TpZEgweJ1nQZqHZD3-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354.33333333333337" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zk6TpZEgweJ1nQZqHZD3-12" value="predio = (metroCPredio&amp;nbsp; / metroCuadradoCubierto) * 100&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="585" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zk6TpZEgweJ1nQZqHZD3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zk6TpZEgweJ1nQZqHZD3-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375.16666666666674" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zk6TpZEgweJ1nQZqHZD3-18" value="totalPDescubierto = 100 - predio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="670" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zk6TpZEgweJ1nQZqHZD3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zk6TpZEgweJ1nQZqHZD3-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390.16666666666674" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zk6TpZEgweJ1nQZqHZD3-20" value="&#39;total cubierto PREDIO&#39;, predio" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="770" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zk6TpZEgweJ1nQZqHZD3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zk6TpZEgweJ1nQZqHZD3-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380.16666666666674" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zk6TpZEgweJ1nQZqHZD3-22" value="&#39;&#39;total PREDIO descubierto &#39;, totalPDescubierto&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="840" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zk6TpZEgweJ1nQZqHZD3-25" value="fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="940" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
