@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12" pages="12">
   <diagram name="Página-1" id="8538RkRGA3aUv2nmdEp7">
     <mxGraphModel dx="816" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1047,6 +1047,72 @@
         </mxCell>
         <mxCell id="Vm6ctxmdYfhvtKXdhHa--45" value="end" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="229" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nuyn-NPNCWirnhEtqfHg" name="Página-12">
+    <mxGraphModel dx="593" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_mhBT2LnUYWjHApMQHtt-2" value="5. Una casa de computación paga a sus empleados un sueldo fijo de ARS15000&#xa;más una comisión del 5% sobre el total facturado por cada empleado. Hacer un&#xa;programa para ingresar el total facturado por un empleado y que luego calcule&#xa;y emita por pantalla el sueldo total a cobrar por el mismo." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="50" width="460" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_mhBT2LnUYWjHApMQHtt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_mhBT2LnUYWjHApMQHtt-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_mhBT2LnUYWjHApMQHtt-4" value="i" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_mhBT2LnUYWjHApMQHtt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_mhBT2LnUYWjHApMQHtt-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_mhBT2LnUYWjHApMQHtt-6" value="SueldoFijo, Comision, total facturado, total a cobrar" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_mhBT2LnUYWjHApMQHtt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_mhBT2LnUYWjHApMQHtt-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_mhBT2LnUYWjHApMQHtt-8" value="SueldoFijo = 15000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_mhBT2LnUYWjHApMQHtt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_mhBT2LnUYWjHApMQHtt-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_mhBT2LnUYWjHApMQHtt-10" value="Comision = 0.05" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_mhBT2LnUYWjHApMQHtt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_mhBT2LnUYWjHApMQHtt-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_mhBT2LnUYWjHApMQHtt-12" value="totalFacturado -&amp;gt; SueldoFijo * Comision" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="570" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_mhBT2LnUYWjHApMQHtt-14" value="&#39;&#39;Total a Cobrar&#39;, mostrar factura" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="800" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_mhBT2LnUYWjHApMQHtt-16" value="F" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="910" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_mhBT2LnUYWjHApMQHtt-18" value="mostrarFactura&amp;nbsp; &amp;lt;- totalFactura + sueldoFijo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="680" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_mhBT2LnUYWjHApMQHtt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.39;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_mhBT2LnUYWjHApMQHtt-18" target="_mhBT2LnUYWjHApMQHtt-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mhBT2LnUYWjHApMQHtt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.708;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_mhBT2LnUYWjHApMQHtt-14" target="_mhBT2LnUYWjHApMQHtt-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
