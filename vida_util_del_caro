@@ -1338,7 +1338,7 @@
             <mxPoint x="314" y="334.6408348083496" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bW9oX3W0FFlpPBvFT-3O-8" value="cantidad =&amp;nbsp; hombres&amp;nbsp; + mujeres *" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bW9oX3W0FFlpPBvFT-3O-8" value="cantidad =&amp;nbsp; hombres&amp;nbsp; + mujeres&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="141" y="224" width="346" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bW9oX3W0FFlpPBvFT-3O-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="bW9oX3W0FFlpPBvFT-3O-10">
@@ -1346,7 +1346,7 @@
             <mxPoint x="325" y="455.02917098999023" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bW9oX3W0FFlpPBvFT-3O-10" value="&amp;nbsp;porcentajeAlumos = hombre / cantidad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bW9oX3W0FFlpPBvFT-3O-10" value="&amp;nbsp;porcentajeAlumos = hombre / cantidad * 100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="335" width="409" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bW9oX3W0FFlpPBvFT-3O-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="bW9oX3W0FFlpPBvFT-3O-13">
