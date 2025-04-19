@@ -1801,12 +1801,114 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yPqSWy91daYDL5ihH_Qw" name="Página-24">
-    <mxGraphModel dx="1688" dy="1231" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="1360" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="v6-vZaa41_qw0oJhXSy2-1" value="6. Una casa de video juegos otorga un descuento dependiendo del importe de la&#xa;compra realizada según los siguientes valores:&#xa;• Si el importe es menor a ARS 1000, no hay descuento.&#xa;• Si el importe es ARS 1000 o más pero menor a ARS 5000, aplica un&#xa;descuento del 10%.&#xa;• Si el importe es ARS 5000 o más, aplica un descuento del 18%.&#xa;Hacer un programa para ingresar un importe de venta y luego muestre por&#xa;pantalla el importe final con el descuento que corresponda." style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="v6-vZaa41_qw0oJhXSy2-1" value="6. Una casa de video juegos otorga un descuento dependiendo del importe de la&#xa;compra realizada según los siguientes valores:&#xa;• Si el importe es menor a ARS 1000, no hay descuento.&#xa;• Si el importe es ARS 1000 o más pero menor a ARS 5000, aplica un&#xa;descuento del 10%.&#xa;• Si el importe es ARS 5000 o más, aplica un descuento del 18%.&#xa;Hacer un programa para ingresar un importe de venta y luego muestre por&#xa;pantalla el importe final con el descuento que corresponda." style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="-30.95263671875" y="-99.11651992797852" width="457" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="j-UnvjmeSlTGuGLRSJG6-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="180.4757957458496" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-1" value="inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="58" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="j-UnvjmeSlTGuGLRSJG6-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="193.9411764705883" y="278.343932207893" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-3" value="valorImporte,descuento10, descuento18, totalImpoerte" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-14" y="181" width="415" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-13" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" edge="1" parent="1" source="j-UnvjmeSlTGuGLRSJG6-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540.3361529181986" y="698.675137688132" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" edge="1" parent="1" source="j-UnvjmeSlTGuGLRSJG6-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-179.25275735294116" y="697.5328826904297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-5" value="valorImpoerte &amp;lt; 1000" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="81" y="459" width="197" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="j-UnvjmeSlTGuGLRSJG6-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190.41176470588243" y="349.16051079245176" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-6" value="descuento10 = 0.1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="274" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="j-UnvjmeSlTGuGLRSJG6-7" target="j-UnvjmeSlTGuGLRSJG6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-7" value="decuento18= 0.18" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="126" y="348" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" edge="1" parent="1" source="j-UnvjmeSlTGuGLRSJG6-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="606" y="1247" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="136" y="729" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-15" value="valorImporte" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-228" y="699" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-17" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" edge="1" parent="1" source="j-UnvjmeSlTGuGLRSJG6-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="297.36497609755565" y="878.0012736600988" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" edge="1" parent="1" source="j-UnvjmeSlTGuGLRSJG6-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="801.0771343006809" y="906.5563919964961" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-16" value="valorImporte &amp;gt;= 5000" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="475" y="696" width="128" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" edge="1" parent="1" source="j-UnvjmeSlTGuGLRSJG6-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="333.0588235294117" y="960.2399713852828" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-18" value="totaliMPOETE = valorImpoerte - descuento18&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="235" y="880" width="197" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-27" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" edge="1" parent="1" source="j-UnvjmeSlTGuGLRSJG6-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="609" y="1282" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-20" value="&quot;Descuento Aplicado 18%&quot; , tatalImpoete" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="160.5" y="957" width="346" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-23" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" edge="1" parent="1" source="j-UnvjmeSlTGuGLRSJG6-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="813.641472535975" y="1002.5015034395105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-22" value="totalImpoete = valorImpoerte - decuento10" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="662" y="912" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" edge="1" parent="1" source="j-UnvjmeSlTGuGLRSJG6-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="608.0446923199822" y="1241.222278370577" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-24" value="descuento aplicado 10%, totalImpoetre" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="617" y="1007" width="357" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j-UnvjmeSlTGuGLRSJG6-29" value="ffin" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="569" y="1281" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
