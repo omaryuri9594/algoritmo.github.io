@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13" pages="23">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13" pages="24">
   <diagram name="Página-1" id="8538RkRGA3aUv2nmdEp7">
     <mxGraphModel dx="816" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1796,6 +1796,17 @@
         </mxCell>
         <mxCell id="foF7IoAAoFNewhj2ZzZ6-20" value="fin" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="156" y="505" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yPqSWy91daYDL5ihH_Qw" name="Página-24">
+    <mxGraphModel dx="1688" dy="1231" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v6-vZaa41_qw0oJhXSy2-1" value="6. Una casa de video juegos otorga un descuento dependiendo del importe de la&#xa;compra realizada según los siguientes valores:&#xa;• Si el importe es menor a ARS 1000, no hay descuento.&#xa;• Si el importe es ARS 1000 o más pero menor a ARS 5000, aplica un&#xa;descuento del 10%.&#xa;• Si el importe es ARS 5000 o más, aplica un descuento del 18%.&#xa;Hacer un programa para ingresar un importe de venta y luego muestre por&#xa;pantalla el importe final con el descuento que corresponda." style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-30.95263671875" y="-99.11651992797852" width="457" height="137" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
