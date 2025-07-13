@@ -148,8 +148,8 @@
         <mxCell id="iv5wi01C-q1okZjqFDm--16" value="dni_participantes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="265" y="-125" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iv5wi01C-q1okZjqFDm--18" value="fk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="265" y="-142" width="30" height="30" as="geometry" />
+        <mxCell id="iv5wi01C-q1okZjqFDm--18" value="PK&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="255" y="-142" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iv5wi01C-q1okZjqFDm--19" value="nombre" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="260" y="-65" width="60" height="30" as="geometry" />
